@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "YOUR-TITLE-Goes-here"
+date: 2020-05-15
 ---
 
 Line one
